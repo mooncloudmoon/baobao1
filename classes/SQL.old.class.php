@@ -21,7 +21,7 @@
  **/
 require_once(dirname(__FILE__).'/../includes/core.inc.php');
 
-class SQL {
+class SQL2 {
 	private static $instance = NULL;
 
 	private $link = false;
